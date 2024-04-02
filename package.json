@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react by Yatharth Thakare",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yatharth31/NamasteReact.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "license",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yatharth31/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/Yatharth31/NamasteReact#readme"
+}
