@@ -2,7 +2,6 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "This is namaste react by Yatharth Thakare",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,9 +20,14 @@
   },
   "homepage": "https://github.com/Yatharth31/NamasteReact#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
   },
   "dependencies": {
-    "react": "^18.2.0"
-  }
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "Last 2 version"
+  ]
 }

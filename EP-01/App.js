@@ -59,6 +59,9 @@ This throws an error of keys
 
 */
 
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const parent = React.createElement("div", { id: "parent" });
 const heading = React.createElement(
   "div",
