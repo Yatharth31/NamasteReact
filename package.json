@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Yatharth31/NamasteReact/issues"
   },
-  "homepage": "https://github.com/Yatharth31/NamasteReact#readme"
+  "homepage": "https://github.com/Yatharth31/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
